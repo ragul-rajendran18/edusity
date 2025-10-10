@@ -1,0 +1,2 @@
+# edusity
+educational management system
